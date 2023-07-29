@@ -1,0 +1,12 @@
+debug/Adi.o
+debug/LayoutSquare.o
+debug/main.o
+debug/pidchart.o
+debug/planemode.o
+debug/widget.o
+debug/qrc_Resource.o
+debug/moc_Adi.o
+debug/moc_LayoutSquare.o
+debug/moc_pidchart.o
+debug/moc_planemode.o
+debug/moc_widget.o

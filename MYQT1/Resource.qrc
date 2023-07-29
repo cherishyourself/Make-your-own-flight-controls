@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/qfi">
+        <file>image/adi.svg</file>
+        <file>image/adi_back.svg</file>
+        <file>image/adi_case.svg</file>
+        <file>image/adi_face.svg</file>
+        <file>image/adi_ring.svg</file>
+        <file>image/fixed.svg</file>
+        <file>image/flying.svg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+release/Adi.o
+release/LayoutSquare.o
+release/main.o
+release/pidchart.o
+release/planemode.o
+release/widget.o
+release/qrc_Resource.o
+release/moc_Adi.o
+release/moc_LayoutSquare.o
+release/moc_pidchart.o
+release/moc_planemode.o
+release/moc_widget.o
