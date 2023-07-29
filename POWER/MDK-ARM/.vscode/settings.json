@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "station.h": "c",
+        "main.h": "c",
+        "gy25.h": "c",
+        "usart.h": "c",
+        "sbus.h": "c",
+        "servo_engine.h": "c",
+        "pid_init.h": "c",
+        "flash.h": "c",
+        "cascadepid.h": "c",
+        "mpu6050.h": "c",
+        "mavlink_user.h": "c",
+        "pid.h": "c",
+        "math.h": "c",
+        "cmath": "c",
+        "cstdlib": "c",
+        "xlocnum": "c"
+    }
+}
